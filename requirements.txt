@@ -1,7 +1,7 @@
 astroid==1.5.3
 click==6.7
 enum-compat==0.0.2
-eventlet==0.21.0
+eventlet==0.31.0
 Flask==0.12.2
 Flask-HTTPAuth==3.2.3
 Flask-SocketIO==2.9.2
